@@ -1,0 +1,36 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  math_expressions: ^2.0.1
+  sqflite: ^2.0.0+4
+  path: ^1.8.1
+  youtube_player_flutter: ^8.1.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/asset/fotoprofil.jpg
+    - lib/asset/kukubima.png
+    - lib/asset/miewarkop.mp4
+    - lib/asset/logoapp.png
+    - lib/asset/sarden2.png
+    - lib/asset/tempe2.png
+    - lib/asset/indomie2.png
+    - lib/asset/kopi2.png
+    - lib/asset/teh2.png
+    - lib/asset/susu2.png
+    - lib/asset/telur2.png
+    - lib/asset/logoapp2.png
